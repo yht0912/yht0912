@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><b>懂生意的设计参谋 · 先定位，后设计</b><br>
-<a href="https://www.bcmsj.com">www.bcmsj.com</a> · <a href="#english">English</a></p>
+<a href="https://www.bcmsj.com">www.bcmsj.com</a> · <a href="https://gitee.com/yihuiting">Gitee 镜像</a> · <a href="#english">English</a></p>
 
 ---
 
@@ -20,18 +20,18 @@
 
 ### 业务工具
 
-| 项目 | 做什么 |
-|---|---|
-| [餐饮广告语·十法三选](https://github.com/yht0912/baocanmou-restaurant-slogan) | 给一家餐饮店的资料，按 10 位广告与定位名家的方法各写 1 条广告语，比较后推荐 3 条。中英文。 |
-| [策划资料变 PPT](https://github.com/yht0912/baocanmou-plan-to-ppt) | 把简报、会议记录和调研整理成有来源、能讲、能改的提案 PPT；品牌方案按谋术鸣组织。 |
+| 项目 | 做什么 | 国内镜像 |
+|---|---|---|
+| [餐饮广告语·十法三选](https://github.com/yht0912/baocanmou-restaurant-slogan) | 给一家餐饮店的资料，按 10 位广告与定位名家的方法各写 1 条广告语，比较后推荐 3 条。中英文。 | [Gitee](https://gitee.com/yihuiting/baocanmou-restaurant-slogan) |
+| [策划资料变 PPT](https://github.com/yht0912/baocanmou-plan-to-ppt) | 把简报、会议记录和调研整理成有来源、能讲、能改的提案 PPT；品牌方案按谋术鸣组织。 | [Gitee](https://gitee.com/yihuiting/baocanmou-plan-to-ppt) |
 
 ### GEO 与技术工具
 
-| 项目 | 做什么 |
-|---|---|
-| [GEO 效果优化](https://github.com/yht0912/bcm-geo-optimizer) | 诊断品牌在 AI 搜索里是否被提及、引用和推荐，按证据排出改进任务，并安排复查。 |
-| [Open GEO SEO Console](https://github.com/yht0912/open-geo-seo-console) | 可自行部署的 SEO 与 GEO 监控后台，区分“已抓取”“已收录”“被引用”等不同证据。 |
-| [包参谋 AI 技能中心](https://github.com/yht0912/baocanmou-ai-skill-center) | Mac 与 Windows 桌面应用，盘点本机 AI Skill，给出中文名称、用途和风险提示，并统一连接到 Claude、Codex 等工具。 |
+| 项目 | 做什么 | 国内镜像 |
+|---|---|---|
+| [GEO 效果优化](https://github.com/yht0912/bcm-geo-optimizer) | 诊断品牌在 AI 搜索里是否被提及、引用和推荐，按证据排出改进任务，并安排复查。 | [Gitee](https://gitee.com/yihuiting/bcm-geo-optimizer) |
+| [Open GEO SEO Console](https://github.com/yht0912/open-geo-seo-console) | 可自行部署的 SEO 与 GEO 监控后台，区分“已抓取”“已收录”“被引用”等不同证据。 | [Gitee](https://gitee.com/yihuiting/open-geo-seo-console) |
+| [包参谋 AI 技能中心](https://github.com/yht0912/baocanmou-ai-skill-center) | Mac 与 Windows 桌面应用，盘点本机 AI Skill，给出中文名称、用途和风险提示，并统一连接到 Claude、Codex 等工具。 | [Gitee](https://gitee.com/yihuiting/baocanmou-ai-skill-center) |
 
 工具代码采用 MIT 许可。“包参谋”商标、品牌源力与谋术鸣完整作品不随代码授权，详见各项目的 NOTICE。
 
@@ -51,10 +51,10 @@
 
 Our approach is positioning first, design second. The open-source tools above come from work we repeat in client projects: writing taglines, building proposals, and checking how a brand appears in AI search.
 
-| Project | What it does |
-|---|---|
-| [Restaurant Slogans: 10 Methods, 3 Picks](https://github.com/yht0912/baocanmou-restaurant-slogan) | Writes one restaurant tagline per method from ten advertising and positioning masters, then recommends three. |
-| [Plans into Presentations](https://github.com/yht0912/baocanmou-plan-to-ppt) | Turns briefs, notes and research into an editable, source-checked proposal deck. |
-| [BCM GEO Outcome Engine](https://github.com/yht0912/bcm-geo-optimizer) | Diagnoses brand mentions, citations and recommendations in AI search and prioritizes evidence-based fixes. |
-| [Open GEO SEO Console](https://github.com/yht0912/open-geo-seo-console) | Self-hosted console for technical SEO, crawler access and GEO evidence. |
-| [BaoCanMou AI Skill Center](https://github.com/yht0912/baocanmou-ai-skill-center) | Desktop app for macOS and Windows that catalogs local AI skills and links them to Claude, Codex and other tools. |
+| Project | What it does | China mirror |
+|---|---|---|
+| [Restaurant Slogans: 10 Methods, 3 Picks](https://github.com/yht0912/baocanmou-restaurant-slogan) | Writes one restaurant tagline per method from ten advertising and positioning masters, then recommends three. | [Gitee](https://gitee.com/yihuiting/baocanmou-restaurant-slogan) |
+| [Plans into Presentations](https://github.com/yht0912/baocanmou-plan-to-ppt) | Turns briefs, notes and research into an editable, source-checked proposal deck. | [Gitee](https://gitee.com/yihuiting/baocanmou-plan-to-ppt) |
+| [BCM GEO Outcome Engine](https://github.com/yht0912/bcm-geo-optimizer) | Diagnoses brand mentions, citations and recommendations in AI search and prioritizes evidence-based fixes. | [Gitee](https://gitee.com/yihuiting/bcm-geo-optimizer) |
+| [Open GEO SEO Console](https://github.com/yht0912/open-geo-seo-console) | Self-hosted console for technical SEO, crawler access and GEO evidence. | [Gitee](https://gitee.com/yihuiting/open-geo-seo-console) |
+| [BaoCanMou AI Skill Center](https://github.com/yht0912/baocanmou-ai-skill-center) | Desktop app for macOS and Windows that catalogs local AI skills and links them to Claude, Codex and other tools. | [Gitee](https://gitee.com/yihuiting/baocanmou-ai-skill-center) |
